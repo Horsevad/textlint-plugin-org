@@ -10,7 +10,7 @@ What is textlint plugin? Please see https://github.com/textlint/textlint/blob/ma
 ## Install
 
 ```shell
-$ npm install textlint-plugin-org
+$ yarn install textlint-plugin-org
 ```
 
 ## Usage
