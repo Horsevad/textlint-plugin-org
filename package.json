@@ -27,10 +27,12 @@
         "watch": "tsc -b --watch",
         "lint": "npx eslint src/**/*.ts"
     },
-    "dependencies": {
+    "dependencies": {    "traverse": "^0.6.6",
+
         "@types/date-fns": "^2.6.0",
         "orga": "2.4.9",
-        "structured-source": "^3.0.2"
+        "structured-source": "^3.0.2",
+        "traverse": "^0.6.6"
     },
     "devDependencies": {
         "@textlint/ast-tester": "^12.0.0",
